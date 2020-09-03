@@ -4,7 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Aa]ssets/[Oo]culus/
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 [Aa]ssets/AssetStoreTools*
 
@@ -12,6 +12,13 @@
 Assets/Resources/OvrAvatarSettings.asset
 Assets/Resources/OculusPlatformSettings.asset
 Assets/Resources/OculusPlatformSettings.asset.meta
+
+#Oculus Integration
+[Aa]ssets/[Oo]culus/
+
+#GitHub Plugin
+[As]ssets/[Pp]lugins/GitHub/*
+[As]ssets/[Pp]lugins/GitHub.meta
 
 # Visual Studio cache directory
 .vs/
